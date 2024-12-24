@@ -1,0 +1,15 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+pinecone-client==2.2.4
+langchain==0.0.225
+flask
+pypdf
+python-dotenv
+langchain-google-genai
+flatbuffers>=2.0
+protobuf==3.20.3
+tensorboard>=2.4.1
+mediapipe==0.10.7
+ultralytics==8.0.35
+mysql-connector-python==8.0.33
+streamlit==1.22.0
