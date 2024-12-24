@@ -13,3 +13,4 @@ mediapipe==0.10.7
 ultralytics==8.0.35
 mysql-connector-python==8.0.33
 streamlit==1.22.0
+-e .
